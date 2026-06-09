@@ -63,3 +63,26 @@ meeting_agent/
   storage.py
   transcribe.py
 ```
+
+## Customer RAG Agent Demo
+
+This repository also contains a deployable customer-service RAG demo:
+
+```bash
+streamlit run customer_rag_app.py
+```
+
+For Streamlit Community Cloud, use:
+
+```text
+Branch: main
+Main file path: customer_rag_app.py
+```
+
+Configure secrets:
+
+```toml
+DEEPSEEK_API_KEY = "your_deepseek_api_key"
+DEEPSEEK_BASE_URL = "https://api.deepseek.com"
+DEEPSEEK_MODEL = "deepseek-v4-flash"
+```

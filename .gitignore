@@ -9,3 +9,5 @@ __pycache__/
 data/
 uploads/
 test_data/
+manuals/*.pdf
+streamlit_deploy_package.zip

@@ -1,0 +1,1937 @@
+
+
+--- Page 1 ---
+T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s 
+Gen 2  
+User Guide
+
+
+
+--- Page 2 ---
+Read this first
+Before using this documentation and the product it supports, ensure that you read and understand the 
+following: 
+• Safety and Warranty Guide
+• Setup Guide
+• Generic Safety and Compliance Notices
+Seventh Edition (September 2022)
+© Copyright Lenovo 2021, 2022. 
+LIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services 
+Administration “GSA” contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS- 
+35F-05925.
+
+
+--- Page 3 ---
+Contents
+Discover your Lenovo notebook . . . . . iii
+Chapter 1.  Meet your computer . . . . . 1
+Front view . . . . . . . . . . . . . . . . . . 1
+Side view . . . . . . . . . . . . . . . . . . 4
+Bottom view . . . . . . . . . . . . . . . . . 6
+Rear view . . . . . . . . . . . . . . . . . . 7
+Specifications . . . . . . . . . . . . . . . . 7
+USB specifications . . . . . . . . . . . . . 7
+Chapter 2.  Get started with your  
+computer . . . . . . . . . . . . . . . . . 9
+Access networks . . . . . . . . . . . . . . . 9
+Connect to Wi-Fi networks . . . . . . . . . . 9
+Connect to the wired Ethernet (for selected  
+models) . . . . . . . . . . . . . . . . . 9
+Connect to a cellular network (for selected  
+models) . . . . . . . . . . . . . . . . . 9
+Turn on the Airplane mode . . . . . . . . . 10
+Interact with your computer . . . . . . . . . . 10
+Use the keyboard shortcuts . . . . . . . . 10
+Use the TrackPoint pointing device . . . . . 12
+Use the trackpad . . . . . . . . . . . . 13
+Use the touch screen (for selected models) . . 14
+Connect to an external display . . . . . . . 16
+Chapter 3.  Explore your computer . . 19
+Lenovo apps . . . . . . . . . . . . . . . . 19
+Smart features (for selected models) . . . . . . . 19
+Color calibration (for selected models) . . . . . . 22
+Intelligent cooling . . . . . . . . . . . . . . 22
+Manage power . . . . . . . . . . . . . . . 23
+Check the battery status . . . . . . . . . 23
+Charge the computer . . . . . . . . . . . 23
+Change the power settings . . . . . . . . 25
+Transfer data . . . . . . . . . . . . . . . . 25
+Set up a Bluetooth connection . . . . . . . 25
+Set up an NFC connection (for selected  
+models) . . . . . . . . . . . . . . . . 25
+Use a microSD card or smart card (for 
+selected models) . . . . . . . . . . . . 26
+Use the RFID feature (for selected Intel  
+models) . . . . . . . . . . . . . . . . 27
+Accessories . . . . . . . . . . . . . . . . 27
+Purchase accessories . . . . . . . . . . 27
+Docking station . . . . . . . . . . . . . 27
+Chapter 4.  Secure your computer 
+and information . . . . . . . . . . . . 33
+Lock the computer . . . . . . . . . . . . . 33
+Log in with your fingerprint (for selected models) . . 33
+Log in with your face ID (for selected models) . . . 33
+Protect your privacy (for selected models) . . . . 34
+Protect data against power loss (for selected  
+models) . . . . . . . . . . . . . . . . . . 34
+UEFI BIOS passwords . . . . . . . . . . . . 34
+Password types . . . . . . . . . . . . . 34
+Set, change, and remove a password . . . . 36
+Associate your fingerprints with passwords 
+(for selected models) . . . . . . . . . . . 37
+Chapter 5.  Configure advanced  
+settings . . . . . . . . . . . . . . . . . 39
+UEFI BIOS . . . . . . . . . . . . . . . . . 39
+Enter the UEFI BIOS menu . . . . . . . . . 39
+Navigate in the UEFI BIOS interface . . . . . 39
+Set the system date and time . . . . . . . . 39
+Change the startup sequence . . . . . . . 39
+Update UEFI BIOS . . . . . . . . . . . . 39
+Install a Windows operating system and drivers . . 40
+Chapter 6.  CRU replacement . . . . . 43
+CRU list . . . . . . . . . . . . . . . . . . 43
+Disable Fast Startup and the built-in battery . . . . 43
+Replace a CRU . . . . . . . . . . . . . . . 44
+Base cover assembly (T14 Gen 2 and P14s 
+Gen 2) . . . . . . . . . . . . . . . . . 44
+Base cover assembly (T15 Gen 2 and P15s 
+Gen 2) . . . . . . . . . . . . . . . . . 46
+Memory module (for selected models) . . . . 48
+M.2 solid-state drive . . . . . . . . . . . 49
+Wireless WAN card (for selected models) . . . 51
+Speaker assembly . . . . . . . . . . . . 52
+Always On USB 3.2 connector Gen 1 board 
+and bracket . . . . . . . . . . . . . . 53
+Keyboard . . . . . . . . . . . . . . . 54
+Chapter 7.  Help and support . . . . . 61
+Frequently asked questions . . . . . . . . . . 61
+Error messages . . . . . . . . . . . . . . . 62
+Beep errors . . . . . . . . . . . . . . . . 63
+Self-help resources . . . . . . . . . . . . . 64
+Windows label . . . . . . . . . . . . . . . 65
+Call Lenovo . . . . . . . . . . . . . . . . 65
+Before you contact Lenovo . . . . . . . . 65
+© Copyright Lenovo 2021, 2022 i
+
+
+--- Page 4 ---
+Lenovo Customer Support Center . . . . . . 67
+Purchase additional services . . . . . . . . . . 67
+Appendix A.  Compliance  
+information . . . . . . . . . . . . . . . 69
+Appendix B.  Notices and  
+trademarks . . . . . . . . . . . . . . . 73
+ii T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 5 ---
+Discover your Lenovo notebook
+Thank you for choosing a Lenovo
+® 
+notebook! We are dedicated to delivering the best solution to you.
+Before starting your tour, please read the following information: 
+• Illustrations in this documentation might look different from your product.
+• Depending on the model, some optional accessories, features, software programs, and user interface 
+instructions might not be applicable to your computer.
+• Documentation content is subject to change without notice. To get the latest documentation, go to https:// 
+pcsupport.lenovo.com .
+© Copyright Lenovo 2021, 2022 iii
+
+
+--- Page 6 ---
+iv T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 7 ---
+Chapter 1. Meet your computer
+ThinkPad T14 Gen 2 and ThinkPad P14s Gen 2 might be shipped with different microprocessors, namely 
+Intel
+® 
+and Advanced Micro Devices (AMD). ThinkPad T15 Gen 2 and ThinkPad P15s Gen 2 are shipped with 
+Intel microprocessors. Hereby Intel models and AMD models are used to distinguish computer models with 
+different microprocessors.
+Front view
+T14 Gen 2 and P14s Gen 2
+Item Description Item Description
+Microphone*
+ Infrared (IR) camera* / Camera*
+Webcam privacy shutter*
+Touch screen*
+© Copyright Lenovo 2021, 2022 1
+
+
+--- Page 8 ---
+Item Description Item Description
+Power button
+TrackPoint
+® 
+pointing stick
+RFID label
+1
+Fingerprint reader*
+Trackpad
+ Near field communication (NFC) label*
+TrackPoint buttons
+ Speaker
+* for selected models
+1 
+for selected Intel models
+T15 Gen 2 and P15s Gen 2
+2 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 9 ---
+Item Description Item Description
+Microphone*
+IR camera* / Camera*
+Webcam privacy shutter*
+Touch screen*
+Power button
+TrackPoint pointing stick
+Fingerprint reader*
+ Trackpad
+NFC label*
+ TrackPoint buttons
+Speaker
+* for selected models
+Webcam privacy shutter
+Slide the webcam privacy shutter to cover or uncover the camera lens. It is designed to protect your privacy.
+Power button
+Press to turn on the computer or put the computer to sleep mode.
+To turn off the computer, open the Start menu, click 
+ Power, and then select Shut down.
+The indicator in the power button shows the system status of your computer. 
+• Blinking for three times: The computer is initially connected to power.
+• On: The computer is on.
+• Off: The computer is off or in hibernation mode.
+• Blinking rapidly (for Intel models): The computer is entering sleep or hibernation mode.
+• Blinking rapidly (for AMD models): The computer is entering hibernation mode.
+• Blinking slowly: The computer is in sleep mode.
+Related topics
+• “Log in with your face ID (for selected models)” on page 33
+• “Smart features (for selected models)” on page 19
+• “Use the touch screen (for selected models)” on page 14
+• “Use the TrackPoint pointing device” on page 12
+• “Use the RFID feature (for selected Intel models)” on page 27
+• “Log in with your fingerprint (for selected models)” on page 33
+• “Use the trackpad” on page 13
+• “Set up an NFC connection (for selected models)” on page 25
+Chapter 1 . Meet your computer 3
+
+
+--- Page 10 ---
+Side view
+Intel models
+Item Description Item Description
+USB-C
+® 
+(Thunderbolt™ 4) power 
+connector
+USB-C (Thunderbolt 4) connector
+Ethernet extension connector Gen 2*
+ USB 3.2 connector Gen 1
+HDMI™ connector
+ Audio connector
+microSD-card slot
+ Smart-card slot*
+Always On USB 3.2 connector Gen 1
+ Ethernet connector*
+Security-lock slot
+* for selected models
+Ethernet extension connector Gen 2* 
+• If your computer comes with this connector, it supports ThinkPad Basic/Pro/Ultra Docking station.
+• If your computer does not come with this connector, we do not recommend you to connect the ThinkPad 
+Basic/Pro/Ultra Docking Stations to your computer.
+4 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 11 ---
+• If your computer comes with a cap on this connector, we do not recommend you to connect the ThinkPad 
+Basic/Pro/Ultra Docking Stations to your computer.
+AMD models
+Item Description Item Description
+USB-C (3.2 Gen 2) power connector
+ USB-C (3.2 Gen 2) connector
+USB 3.2 connector Gen 1
+ HDMI connector
+Audio connector
+ microSD-card slot
+Smart-card slot*
+Always On USB 3.2 connector Gen 1
+Ethernet connector
+ Security-lock slot
+* for selected models
+Related topics
+• “USB specifications” on page 7
+• “Charge the computer” on page 23
+• “Connect to an external display” on page 16
+• “Use a microSD card or smart card (for selected models)” on page 26
+• “Connect to the wired Ethernet (for selected models)” on page 9
+• “Lock the computer” on page 33
+Chapter 1 . Meet your computer 5
+
+
+--- Page 12 ---
+Bottom view
+T14 Gen 2 and P14s Gen 2
+T15 Gen 2 and P15s Gen 2
+Item Description Item Description
+Emergency-reset hole
+ Keyboard drainage hole
+Emergency-reset hole
+If the computer stops responding and you cannot turn it off by pressing the power button, reset your 
+computer: 
+1. Disconnect your computer from ac power.
+2. Insert a straightened paper clip into the hole to cut off power supply temporarily.
+3. Connect your computer to ac power and then turn on your computer.
+6 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 13 ---
+Keyboard drainage hole
+Drain out liquid from your computer if you accidentally spill liquid on the keyboard.
+CAUTION: 
+When the computer is operating, it should be placed on a hard and flat surface with its bottom area 
+not in contact with user’s bare skin. Under normal operating conditions, the temperature of the 
+bottom surface will remain within an acceptable range as defined in IEC 62368-1, but such 
+temperatures can still be high enough to cause discomfort or harm to the user if directly touched for 
+over one minute at a time. As such, it is recommended that users avoid prolonged direct contact with 
+the bottom of the computer.
+Rear view
+Nano-SIM-card tray*
+* for selected models
+Related topic
+“Connect to a cellular network (for selected models)” on page 9
+Specifications
+For detailed specifications of your computer, go to https://psref.lenovo.com .
+USB specifications
+Note: Depending on the model, some USB connectors might not be available on your computer.
+Chapter 1 . Meet your computer 7
+
+
+--- Page 14 ---
+Connector name Description
+USB 3.2 connector Gen 1
+Connect USB-compatible devices, such as a USB keyboard, USB 
+mouse, USB storage device, or USB printer.
+• USB-C (3.2 Gen 2) connector
+• 
+ USB-C (Thunderbolt 4) connector
+• Charge USB-C compatible devices with the output voltage and 
+current of 5 V and 1.5 A.
+• Connect to an external display: 
+– Intel models: 
+– USB-C to VGA: up to 1920 x 1200 pixels, 60 Hz
+– USB-C to DP: up to 5120 x 3200 pixels, 60 Hz
+– AMD models: 
+– USB-C to VGA: up to 1920 x 1200 pixels, 60 Hz
+– USB-C to DP: up to 5120 x 2880 pixels, 60 Hz
+• Connect to USB-C accessories to help expand your computer 
+functionality. To purchase USB-C accessories, go to https:// 
+www.lenovo.com/accessories .
+Statement on USB transfer rate
+Depending on many factors such as the processing capability of the host and peripheral devices, file 
+attributes, and other factors related to system configuration and operating environments, the actual transfer 
+rate using the various USB connectors on this device will vary and will be slower than the data rate listed 
+below for each corresponding device.
+USB device Data rate (Gbit/s)
+3.2 Gen 1 / 3.1 Gen 1 5
+3.2 Gen 2 / 3.1 Gen 2 10
+3.2 Gen 2 × 2 20
+Thunderbolt 3 40
+Thunderbolt 4 40
+8 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 15 ---
+Chapter 2. Get started with your computer
+Access networks
+This section helps you connect to a wireless or wired network.
+Connect to Wi-Fi networks
+Click the network icon in the Windows
+® 
+notification area, and then select a network for connection. Provide 
+required information, if needed. 
+Connect to the wired Ethernet (for selected models)
+Connect your computer to a local network through the Ethernet connector on your computer with an 
+Ethernet cable.
+Connect to a cellular network (for selected models)
+If your computer has a wireless wide area network (WAN) card and a nano-SIM card installed, you can 
+connect to a cellular data network and get online everywhere.
+Note: The cellular service is provided by authorized mobile service carriers in some countries or regions. 
+You must have a cellular plan from a service carrier to connect to the cellular network.
+To establish a cellular connection:  
+1. Turn off the computer.
+© Copyright Lenovo 2021, 2022 9
+
+
+--- Page 16 ---
+2. Insert a straightened paper clip into the hole in the tray 1 . The tray ejects. Then, slide the tray out of the 
+computer. Install a nano-SIM card into the tray 2 with the metal contacts facing downward. Insert the 
+tray into the nano-SIM-card slot until you hear a click 3 . 
+3. Turn on the computer.
+4. Click the network icon in the Windows notification area, and then select the cellular network icon 
+ from 
+the list.
+5. Provide required information if needed.
+Turn on the Airplane mode
+When the Airplane mode is enabled, all wireless features are disabled. 
+1. Type Airpl ane mode in the Windows search box and then press Enter.
+2. Turn on the Airplane mode.
+Interact with your computer
+Your computer provides you various ways to navigate the screen.
+Use the keyboard shortcuts
+The special keys on the keyboard help you work more effectively.
+Key / Key combination Function
++ 
+Invoke the special function printed as an icon on each key or standard function of 
+F1–F12 function keys.
+FnLock indicator on: standard function
+FnLock indicator off: special function
+Enable / disable speakers
+Decrease volume
+Increase volume
+Enable / disable microphones
+Darken display
+Brighten display
+10 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 17 ---
+Key / Key combination Function
+Manage external displays
+Enable / disable wireless
+Open / collapse notification center
+Answer incoming calls on Microsoft Teams
+®
+Decline incoming calls on Microsoft Teams
+Open the Vantage app. You can customize the function of this key on the Vantage 
+app.
++ 
+Open calculator (for T15 Gen 2 and P15s Gen 2 only)
++ 
+Enter sleep mode (for T15 Gen 2 and P15s Gen 2 only)
++ 
+Open Snipping Tool
++ 
+Toggle keyboard backlight
++ 
+Break operation
++ 
+Pause operation
++ 
+Scroll contents
++ 
+Send system request
++ 
+Enter sleep mode
+To wake up the computer, press Fn or the power button.
++ 
+If your computer comes with an ePrivacy screen, press Fn+D to enable or disable 
+the privacy protection function. For more information, see “Protect your privacy 
+(for selected models)” on page 34 .
++ 
+Go to beginning
++ 
+Go to end
+Chapter 2 . Get started with your computer 11
+
+
+--- Page 18 ---
+Use the TrackPoint pointing device
+The TrackPoint pointing device enables you to perform all the functions of a traditional mouse, such as 
+pointing, clicking, and scrolling.
+Use the TrackPoint pointing device
+TrackPoint pointing stick
+Use your finger to apply pressure to the pointing-stick nonslip cap in any direction parallel to the keyboard. 
+The pointer on the screen moves accordingly. The higher the pressure applied, the faster the pointer moves.
+TrackPoint buttons
+The left-click button and right-click button correspond to the left and right buttons on a traditional mouse. 
+Press and hold the dotted middle button while using your finger to applying pressure to the pointing stick in 
+the vertical or horizontal direction. Then, you can scroll through the document, Web site, or apps.
+Disable the TrackPoint pointing device
+The TrackPoint pointing device is active by default. To disable the device: 
+1. Open the Start menu, and then click Settings ➙ Devices ➙ Mouse.
+2. Follow the on-screen instructions to disable TrackPoint.
+12 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 19 ---
+Replace the pointing-stick nonslip cap
+Note: Ensure that the new cap has grooves a .
+Use the trackpad
+You can use the trackpad to perform all the pointing, clicking, and scrolling functions of a traditional mouse.
+Use the trackpad
+Item Description Item Description
+Left-click zone
+Right-click zone
+Chapter 2 . Get started with your computer 13
+
+
+--- Page 20 ---
+Use the touch gestures
+Illustration and description Illustration and description
+Tap once to select or open an item.
+ Tap twice quickly to display a shortcut menu.
+Two-finger zoom in or zoom out.
+ Scroll through items.
+Open the task view to see all open windows.
+ Show the desktop.
+Notes: 
+• When using two or more fingers, ensure that you position your fingers slightly apart.
+• Some gestures are not available if the last action was done from the TrackPoint pointing device.
+• Some gestures are only available when you are using certain apps.
+• If the trackpad surface is stained with oil, turn off the computer first. Then, gently wipe the trackpad 
+surface with a soft and lint-free cloth moistened with lukewarm water or computer cleaner.
+For more gestures, see the help information of the pointing device.
+Disable the trackpad
+The trackpad is active by default. To disable the device: 
+1. Open the Start menu, and then click Settings ➙ Devices ➙ Touchpad.
+2. In the Touchpad section, turn off the Touchpad control.
+Use the touch screen (for selected models)
+If your computer display supports the multi-touch function, you can navigate the screen with simple touch 
+gestures.
+14 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 21 ---
+Note: Some gestures might not be available when you are using certain apps.
+Illustration and description Illustration and description
+Tap once to single click Tap twice quickly to double-click
+Tap and hold to right-click Slide to scroll through items
+Zoom out Zoom in
+Swipe from the left: view all open windows Swipe from the right: open action center
+Swipe downwards shortly: show title bar
+Swipe downwards: close the current app
+Drag
+Chapter 2 . Get started with your computer 15
+
+
+--- Page 22 ---
+Maintenance tips:
+• Turn off the computer before cleaning the touch screen.
+• Use a dry, soft, and lint-free cloth or a piece of absorbent cotton to remove fingerprints or dust from the 
+touch screen. Do not apply solvents to the cloth.
+• The touch screen is a glass panel covered with a plastic film. Do not apply pressure or place any metallic 
+object on the screen, which might damage the touch panel or cause it to malfunction.
+• Do not use fingernails, gloved fingers, or inanimate objects for input on the screen.
+• Regularly calibrate the accuracy of the finger input to avoid a discrepancy.
+Connect to an external display
+Connect your computer to a projector or a monitor to give presentations or expand your workspace.
+Connect to a wired display
+If your computer cannot detect the external display, right-click a blank area on the desktop and select 
+display settings. Then follow the on-screen instructions to detect the external display.
+The following table lists the supported maximum resolution of the external display. 
+Connect the external display to Supported resolution
+the USB-C (Thunderbolt 4) connector (for Intel models) Up to 5120 x 3200 pixels / 60 Hz
+the USB-C (3.2 Gen 2) connector (for AMD models) Up to 5120 x 2880 pixels / 60 Hz
+the HDMI connector Up to 3840 x 2160 pixels / 60 Hz
+Notes: 
+• For Intel models, the HDMI connector supports the HDMI 2.0 or earlier standards. Connect to a 
+compatible digital audio device or video monitor, such as an HDTV.
+• For AMD models, the HDMI connector supports the HDMI 2.0 standard by default. If you connect an 
+external display to your computer through the HDMI connector with an HDMI 1.4 cable, the external 
+display might not work. In this case, do one of the following: 
+– Use a qualified HDMI 2.0 cable instead of an HDMI 1.4 cable.
+– Change the HDMI standard of the HDMI connector from 2.0 to 1.4. To change the HDMI standard, 
+enter the UEFI BIOS menu (see “Enter the UEFI BIOS menu” on page 39 ), and then configure HDMI 
+Mode Select in the Config menu.
+16 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 23 ---
+Connect to a wireless display
+To use a wireless display, ensure that both your computer and the external display support the Miracast
+® 
+feature.
+Press 
+ + 
+ and then select a wireless display to connect with.
+Set the display mode
+Press 
+ or 
+ and then select a display mode of your preference.
+Change display settings
+1. Right-click a blank area on the desktop and select display settings.
+2. Select the display that you want to configure and change display settings of your preference.
+You can change the settings for both the computer display and the external display. For example, you can 
+define which one is the main display and which one is the secondary display. You also can change the 
+resolution and orientation.
+Chapter 2 . Get started with your computer 17
+
+
+--- Page 24 ---
+18 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 25 ---
+Chapter 3. Explore your computer
+Lenovo apps
+This section provides introduction to the Vantage and Lenovo Quick Clean / Clean Your Device apps.
+The Vantage app
+The preinstalled Vantage app is a customized one-stop solution to help you maintain your computer with 
+automated updates and fixes, configure hardware settings, and get personalized support.
+To access the Vantage app, type Van t age in the Windows search box.
+Key features 
+The Vantage app enables you to:
+• Know the device status easily and customize device settings.
+• Download and install UEFI BIOS, firmware, and driver updates to keep your computer up-to-date.
+• Monitor your computer health, and secure your computer against outside threats.
+• Scan your computer hardware and diagnose hardware problems.
+• Look up warranty status (online).
+• Access User Guide and helpful articles.
+Notes: 
+• The available features vary depending on the computer model.
+• The Vantage app makes periodic updates of the features to keep improving your experience with your 
+computer. The description of features might be different from that on your actual user interface.
+Lenovo Quick Clean / Clean Your Device
+Depending on the model, your computer might support the Lenovo Quick Clean / Clean Your Device feature. 
+The preinstalled Lenovo Quick Clean / Clean Your Device enables you to temporarily disable the keyboard, 
+screen, trackpad, and TrackPoint pointing device for cleaning.
+To access Lenovo Quick Clean / Clean Your Device, do one of the following: 
+• Type Lenov o Quick Cl e an / Cl e an Y our Device in the Windows search box.
+• Press Fn and the right Shift key at the same time. 
+To download the latest version of Lenovo Quick Clean / Clean Your Device, go to https://pcsupport.lenovo. 
+com .
+Smart features (for selected models)
+Your computer might be preinstalled with Glance by Mirametrix
+®
+. Glance can capture your head movement 
+through camera and makes your computer smarter and more efficient.
+© Copyright Lenovo 2021, 2022 19
+
+
+--- Page 26 ---
+Access Glance by Mirametrix
+Type Gl anc e in the Windows search box and then press Enter.
+Note: If Glance is uninstalled, you can request it through https://support.lenovo.com/contactus .
+Explore key features
+Depending on the model, some features might not be available on your computer. 
+• Protect privacy 
+– Presence Detection: Keep your computer awake when in use and automatically lock the computer 
+when your head moves out of the camera range. 
+– Privacy Alert: When a shoulder surfer is detected, an alert icon appears on your computer screen. 
+– Privacy Guard: When a shoulder surfer is detected, your screen is blurred. Press Alt+F2 to cancel the 
+blur effect. 
+– Smart Display: Blur screens you are not looking at. If you are not facing any screen, all screens are 
+blurred. Press Alt+F2 to cancel the blur effect. 
+20 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 27 ---
+Note: If your computer comes with an ePrivacy screen, it can work with Glance to achieve better privacy 
+protection. For details, go to https://support.lenovo.com/us/en/videos/vid500144 .
+• Improve productivity 
+– Snap Window: When you select a window on one screen and turn your face to another, the window 
+automatically snaps to the top center of the screen you are facing. 
+– Smart Pointer: Relocate the pointer to the screen you are facing. When the pointer moves from one 
+screen to another, it is temporarily drawn large. 
+Note: Snap Window and Smart Pointer only work when your computer is connected to external displays. 
+Ensure that external displays are placed at the same height of your computer.
+• Promote digital wellness 
+– Posture check: Remind you to adjust your posture once you hunch toward the screen.
+– 20/20/20 Alert: Remind you to look away from the screen and relax your eyes for 20 seconds every 20 
+minutes. 
+Chapter 3 . Explore your computer 21
+
+
+--- Page 28 ---
+Color calibration (for selected models)
+The factory color calibration feature is available on computer models preinstalled with the X-Rite Color 
+Assistant program. This feature enables you to render color images or graphics on your display close to the 
+original intent as much as possible.
+For computer with the factory color calibration feature, the color profiles are preinstalled. You can switch 
+between color profiles as desired: 
+1. Click the triangular icon in the Windows notification area to show hidden icons. Then, right-click 
+ .
+2. Follow the on-screen instructions to select a profile as desired.
+Lenovo provides backup color profiles in Lenovo Cloud. You might need to restore or install color profiles in 
+the following situations: 
+• If any color profile is lost or damaged, a window will be displayed to remind you to restore the color 
+profiles. Click Yes in the window prompted, and the color profiles will be restored from Lenovo Cloud 
+automatically.
+• If your display has been replaced by a Lenovo-authorized service provider, do the following to install new 
+color profiles: 
+1. Connect your computer to the network and close the X-Rite Color Assistant program.
+2. Go to C:\Program f il es (x86)\X-Rit e Col or Ass is t ant and locate the 
+ProfileUpdaterForDisplayReplacement.exe file.
+3. Double-click the EXE file. Then, follow the on-screen instructions to input the display serial number 
+and click Submit.
+Note: When the new color profiles are installed successfully, a window will be displayed.
+Intelligent cooling
+The Intelligent Cooling feature helps you adjust fan speed, computer temperature and performance. This 
+feature works in auto mode by default. Press Fn+T to switch between manual mode and auto mode.
+22 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 29 ---
+Manual mode
+• 
+ Quiet mode: the least fan noise
+• 
+ Balanced mode: balanced performance and fan noise
+• 
+ Performance mode: the highest performance and normal fan noise
+on ac power
+on battery power
+Do the following to select the preferred mode: 
+1. Click the battery status icon in the Windows notification area.
+2. Move the slider to the left or right to select your preferred mode.
+Auto mode (for Intel models only)
+• 
+ Auto battery mode: Switch between quiet mode and battery mode automatically based on the amount 
+of system activity. 
+• 
+ Auto performance mode: Switch among quiet mode, balanced mode and performance mode 
+automatically based on the amount of system activity.
+Manage power
+Use the information in this section to achieve the best balance between performance and power efficiency.
+Check the battery status
+Go to Settings ➙ System to check the battery status. For more details about your battery, refer to the 
+Vantage app.
+Charge the computer
+Use ac power
+Power source of the ac power adapter: 
+• Power: 45 W or 65 W (depending on the model)
+• Sine-wave input at 50 Hz to 60 Hz
+• Input rating of the ac power adapter: 100 V to 240 V ac, 50 Hz to 60 Hz
+• Output rating of the ac power adapter: 20 V dc, 2.25 A or 20 V dc, 3.25 A
+When the battery power is low, charge your battery by connecting your computer to ac power with the 
+supplied power adapter. The 65 W ac power adapter supports the rapid charge function, the battery is 80% 
+charged in about one hour when the computer is turned off. The actual charging time depends on the battery 
+size, the physical environment, and whether you are using the computer. 
+Note: Some models may not ship with ac adapters or power cords. Use only the certified adapters and 
+power cords provided by Lenovo that comply with the requirements of relevant national standards to charge 
+Chapter 3 . Explore your computer 23
+
+
+--- Page 30 ---
+the product. It is recommended to use the Lenovo qualified adapters. You can refer to https:// 
+www.lenovo.com/us/en/compliance/eu-doc .
+Notes: To maximize the life of the battery:  
+• Use the battery until the charge is depleted and recharge the battery completely before using it. Once the 
+battery is fully charged, it must discharge to 94% or lower before it will be allowed to recharge again.
+• The battery may optimize its full charge capacity based on your usage. After prolonged periods of limited 
+use, full battery capacity may not be available until you discharge to as low as 20% and recharge 
+completely. For more information, refer to the power section of the Vantage app.
+• Lenovo provides you with an estimate of how much battery life you might expect from your computer 
+based on the battery life test under specific benchmark. The actual amount of battery life varies 
+significantly depending on your computer settings, usage, configuration and other factors. To maximize 
+the battery life, you can lower the display brightness of the computer display or turn off wireless feature 
+when not in use.
+Use P-to-P 2.0 (Peer to Peer 2.0) charging function
+Both USB-C connectors on the computer feature the Lenovo-unique P-to-P 2.0 charging function. To use 
+the function, ensure that Always On USB and Charge in Battery Mode are enabled in UEFI BIOS of your 
+computers, so that the function works even when the computers are off or in hibernation mode.
+To enable Always On USB and Charge in Battery Mode: 
+1. Press F1 to enter the UEFI BIOS menu.
+2. Click Config ➙ USB, and then to enable Always On USB and Charge in Battery Mode.
+• When no ac power is available: 
+Note: The remaining battery power of computer A should be at least 30% and be 3% higher than that of 
+computer B.
+• When ac power is available: 
+24 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 31 ---
+Note: The actual charging speed of your computer depends on many factors, such as the remaining battery 
+power of the computers, the wattage of the ac power adapter, and whether you are using the computers.
+Change the power settings
+For ENERGY STAR
+® 
+compliant computers, the following power plan takes effect when your computer has 
+been idle for a specified duration: 
+• Turn off the display: After 10 minutes
+• Put the computer to sleep: After 10 minutes
+To reset the power plan: 
+1. Right-click the battery status icon and select Power Options.
+2. Choose or customize a power plan of your preference.
+To reset the power button function: 
+1. Right-click the battery status icon and select Power Options ➙ Choose what the power buttons do.
+2. Change the settings as you prefer.
+Transfer data
+Quickly share your files using the built-in Bluetooth or NFC technology among devices with the same 
+features. You also can insert a microSD card or smart card to transfer data.
+Set up a Bluetooth connection
+You can connect all types of Bluetooth-enabled devices to your computer, such as a keyboard, a mouse, a 
+smartphone, or speakers. To ensure successful connection, place the devices at most 10 meters (33 feet) 
+from the computer.
+1. Type Blue t oo th in the Windows search box and then press Enter.
+2. Turn on Bluetooth, if it is off.
+3. Select a Bluetooth device, and then follow the on-screen instructions.
+Set up an NFC connection (for selected models)
+If your computer supports NFC, you will see an NFC mark or label 
+ around the trackpad area.
+To turn on NFC: 
+1. Type Airpl ane mode in the Windows search box and then press Enter.
+2. Ensure that the Airplane mode is off and turn on the NFC function.
+Chapter 3 . Explore your computer 25
+
+
+--- Page 32 ---
+By using NFC, you can simply tap and connect your computer and another NFC-enabled device over a few 
+centimeters or inches. To pair with an NFC card or smartphone: 
+Note: Ensure that the NFC card is in NFC Data Exchange Format (NDEF), otherwise the card cannot be 
+detected.
+Use a microSD card or smart card (for selected models)
+If your computer has a microSD-card or smart-card slot, read the following information.
+Supported microSD card
+Note: Your computer does not support the content protection for recordable media (CPRM) feature for the 
+microSD card.
+• Secure Digital (SD) card
+• Secure Digital eXtended-Capacity (SDXC) UHS-1 card
+• Secure Digital High-Capacity (SDHC) UHS-1 card
+Supported smart card
+Supported smart card specifications: 85.60 mm (3.37 inches) x 53.98 mm (2.13 inches) 
+Attention: Smart cards with slits are not supported. Do not insert such a smart card into the smart-card 
+reader of your computer. Otherwise the reader might get damaged. 
+Install the card
+1. Locate the card slot.
+2. Insert the card firmly into the card slot until it is secured in place. 
+Notes: 
+• For the microSD card, ensure that the metal contacts are facing down and pointing toward the card 
+slot.
+26 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 33 ---
+• For the smart card, ensure that the metal contacts are facing upward and pointing toward the card 
+slot.
+Remove the card
+Attention: Before removing the card: 
+1. Click the triangular icon in the Windows notification area to show hidden icons. Right-click the icon 
+prompting you to safely remove hardware and eject media.
+2. Select the corresponding item to eject the card from the Windows operating system.
+3. Press the card and remove it from your computer. Store the card safely for future use.
+Use the RFID feature (for selected Intel models)
+Depending on the model, your computer might come with an integrated Radio Frequency Identification 
+(RFID) reader. With the RFID technology, you can log in to an RFID-enabled system using a granted RFID 
+object, such as an ID badge.
+To log in to the system, place your identification card above the area a . 
+Accessories
+This section provides instructions on how to use hardware accessories to expand your computer 
+functionalities.
+Purchase accessories
+Lenovo has a number of hardware accessories and upgrades to help expand the functionalities of your 
+computer. Options include memory modules, storage devices, network cards, port replicators or docking 
+stations, batteries, power adapters, keyboards, mice, and more.
+To shop at Lenovo, go to https://www.lenovo.com/accessories .
+Docking station
+You can use the following docking stations to extend the capacity of your computer:  
+• ThinkPad Basic Docking Station
+• ThinkPad Pro Docking Station
+• ThinkPad Ultra Docking Station
+Chapter 3 . Explore your computer 27
+
+
+--- Page 34 ---
+Note:
+• If your computer comes with the Ethernet extension connector Gen 2 a , it supports ThinkPad Basic/Pro/ 
+Ultra Docking station.
+• If your computer does not come with this connector a , we do not recommend you to connect the 
+ThinkPad Basic/Pro/Ultra Docking Stations to your computer.
+• If your computer comes with a cap on this connector a , we do not recommend you to connect the 
+ThinkPad Basic/Pro/Ultra Docking Stations to your computer.
+Side connectors of docking stations
+Figure 1. ThinkPad Basic Docking Station
+Figure 2. ThinkPad Pro Docking Station
+Figure 3. ThinkPad Ultra Docking Station
+Item and description Item and description
+1. Audio connector 2. ac power connector
+3. DisplayPort
+® 
+connector 4. VGA connector
+5. USB-A 2.0 connector 6. Always on USB-A 3.2 Gen 1 connector
+7. USB-A 3.2 Gen 1 connector 8. Ethernet connector
+28 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 35 ---
+Item and description Item and description
+9. Security-lock slot 10. USB-C connector
+11. HDMI connector 12. Always on USB-A 3.2 Gen 2 connector
+13. USB-A 3.2 Gen 2 connector
+Attach a docking station
+Notes: 
+• ThinkPad Basic Docking Station does not ship with a system lock installed. If you do not purchase and 
+install a system lock, skip step 3 and step 6 in the following instruction.
+• If you do not connect the docking station to ac power, the computer attached runs on battery power.
+1. Connect the docking station to ac power.
+2. Disconnect the cables and devices from the left side of the computer.
+3. Turn the system lock key to the unlocked position (
+ ). 
+4. Align the top-left corner of the computer with the guide post of the docking station. Attach your 
+computer to the docking station as shown 1 until you hear a click. Slide the latch in the direction as 
+shown 2 . 
+5. Check the docking status indicator. The docking status indicator turns on when the computer is 
+successfully docked. 
+Note: If the indicator is off, your computer is not attached to the docking station successfully. To solve 
+the problem, detach and reattach the computer. 
+6. Turn the system lock key to the locked position (
+ ). 
+Chapter 3 . Explore your computer 29
+
+
+--- Page 36 ---
+Attention: When the computer is attached to a docking station, always hold the whole assembly when you 
+need to move your computer. Otherwise, the docking station might drop down.
+Detach a docking station
+Note: ThinkPad Basic Docking Station does not ship with a system lock installed. If you do not purchase 
+and install a system lock, skip step 1 in the following instruction.
+1. Turn the system lock key to the unlocked position (
+ ). 
+2. Slide the latch in the direction as shown 1 to release the computer, and then grasp both sides of the 
+computer to remove it 2 . 
+Connect multiple external displays
+You can connect multiple external displays to a supported docking station. To ensure that the multiple 
+displays work correctly, refer to the following table and connect the external displays to the appropriate 
+connectors.
+30 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 37 ---
+Docking station Connectors supporting external displays
+ThinkPad Basic Docking Station
+DisplayPort
+VGA
+ThinkPad Pro Docking Station DisplayPort (x2)
+ThinkPad Ultra Docking Station
+DisplayPort (x2)
+HDMI
+VGA
+Chapter 3 . Explore your computer 31
+
+
+--- Page 38 ---
+32 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 39 ---
+Chapter 4. Secure your computer and information
+Lock the computer
+Lock your computer to a desk, table, or other fixtures through a compatible security cable lock. 
+Note: The slot supports cable locks that conform to the Kensington MicroSaver
+® 
+lock standards (using T- 
+bar™ locking technology) or MiniSaver
+® 
+lock standards (using Cleat™ locking technology). You are 
+responsible for evaluating, selecting, and implementing the locking device and security feature. Lenovo is not 
+responsible for the locking device and security feature. You can purchase the cable locks at https:// 
+smartfind.lenovo.com .
+Log in with your fingerprint (for selected models)
+Enroll your fingerprints and unlock computer by scanning your fingerprints on the fingerprint reader.
+1. Type Sign-in op t ions in the Windows search box and then press Enter.
+2. Select the fingerprint setting and then follow the on-screen instruction to enroll your fingerprint. 
+Note: It is recommended that you put your finger at the center of the fingerprint reader during 
+enrollment and enroll more than one fingerprint in case of any injuries to your fingers. After the 
+enrollment, the fingerprints are associated with the Windows password automatically.
+3. Log in with your fingerprint.
+Associate your fingerprints with UEFI BIOS passwords
+You can associate your fingerprints with your power-on password and NVMe password. See “Associate your 
+fingerprints with passwords (for selected models)” on page 37 .
+Maintenance tips: 
+• Do not scratch the surface of the reader with anything hard.
+• Do not use or touch the reader with a wet, dirty, wrinkled, or injured finger.
+Log in with your face ID (for selected models)
+For models come with a webcam privacy shutter, slide the webcam privacy shutter to uncover the camera 
+lens before using the Windows Hello face recognition.
+Create your face ID and unlock your computer by scanning your face: 
+© Copyright Lenovo 2021, 2022 33
+
+
+--- Page 40 ---
+1. Type Sign-in op t ions in the Windows search box and then press Enter.
+2. Select the face ID setting and then follow the on-screen instruction to create your face ID.
+Protect your privacy (for selected models)
+Use the ePrivacy screen
+Your computer might come with an ePrivacy screen. It can reduce screen visibility from side angles to 
+protect screen content against visual hacking. By default, this function is disabled. You can press F12 or Fn 
++D to enable it. You will be prompted by the on-screen icon 
+ or 
+ every time the function is enabled or 
+disabled.
+Your ePrivacy screen can be automatically enabled in case that you are required to input passwords. By 
+default, this automatic function for passwords is disabled. You can enable it on the Vantage app.
+The ePrivacy screen also can work with the preinstalled Glance app to better protect your privacy. For 
+details, go to https://support.lenovo.com/us/en/videos/vid500144 .
+Set the privacy level
+The privacy level of this function varies depending on the screen brightness level, the contrast ratio, and the 
+physical environment where you are using this function. 
+• Press 
+ to increase the privacy level.
+• Press 
+ to decrease the privacy level.
+Protect data against power loss (for selected models)
+NVMe (Non-Volatile Memory express) M.2 solid-state drive features the Lenovo-unique PLP (Power Loss 
+Protection) function to avoid data loss or damage. If your computer is not responding and you might have to 
+shut down your computer by pressing and holding the power button for several seconds. In this case, the 
+PLP function enables your computer data to be saved timely. However, there is no guarantee that all data is 
+saved in any situation. To check the type of your M.2 solid-state drive: 
+1. Restart the computer. When the logo screen is displayed, press F10 to enter the Lenovo diagnostics 
+window.
+2. On the TOOLS tab, select SYSTEM INFORMATION ➙ STORAGE using the arrow keys.
+3. Locate the Device Type section to check the information.
+UEFI BIOS passwords
+You can set passwords in UEFI (Unified Extensible Firmware Interface) BIOS (Basic Input/Output System) to 
+strengthen the security of your computer.
+Password types
+You can set a power-on password, supervisor password, system management password, or NVMe 
+password in UEFI BIOS to prevent unauthorized access to your computer. However, you are not prompted to 
+enter any UEFI BIOS password when your computer resumes from sleep mode.
+Power-on password
+If you set a power-on password, a window is displayed on the screen when you turn on the computer. Enter 
+the correct password to use the computer.
+34 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 41 ---
+Supervisor password
+The supervisor password protects the system information stored in UEFI BIOS. When entering the UEFI 
+BIOS menu, enter the correct supervisor password in the window prompted. You also can press Enter to 
+skip the password prompt. However, you cannot change most of the system configuration options in UEFI 
+BIOS.
+If you have set both the supervisor password and power-on password, you can use the supervisor password 
+to access your computer when you turn it on. The supervisor password overrides the power-on password.
+System management password
+The system management password can also protect the system information stored in UEFI BIOS like a 
+supervisor password, but it has lower authority by default. The system management password can be set 
+through the UEFI BIOS menu or through Windows Management Instrumentation (WMI) with the Lenovo 
+client-management interface.
+You can enable the system management password to have the same authority as the supervisor password 
+to control security-related features. To customize the authority of the system management password through 
+the UEFI BIOS menu: 
+1. Restart the computer. When the logo screen is displayed, press F1 to enter the UEFI BIOS menu.
+2. Select Security ➙ Password ➙ System Management Password Access Control.
+3. Follow the on-screen instructions.
+If you have set both the supervisor password and the system management password, the supervisor 
+password overrides the system management password. If you have set both the system management 
+password and the power-on password, the system management password overrides the power-on 
+password.
+NVMe passwords
+The NVMe password prevents unauthorized access to the data on the storage drive. When an NVMe 
+password is set, you are prompted to type a correct password each time you try to access the storage drive. 
+• Single Password
+When a Single NVMe password is set, the user must enter the user NVMe password to access files and 
+applications on the storage drive.
+• Dual Password (User + Admin)
+The admin NVMe password is set and used by a system administrator. It enables the administrator to 
+access any storage drive in a system or any computer connected in the same network. The administrator 
+can also assign a user NVMe password for each computer in the network. The user of the computer can 
+change the user NVMe password as desired, but only the administrator can remove the user NVMe 
+password.
+When prompted to enter an NVMe password, press F1 to switch between the admin NVMe password and 
+user NVMe password.
+Notes: The NVMe password is not available in the following situations: 
+• A Trusted Computing Group (TCG) Opal-compliant storage drive and a TCG Opal management software 
+program are installed in the computer, and the TCG Opal management software program is activated.
+• For Intel models, when an eDrive storage drive is installed in the computer preinstalled with the Windows 
+10 operating system.
+Chapter 4 . Secure your computer and information 35
+
+
+--- Page 42 ---
+Set, change, and remove a password
+Before you start, print these instructions.
+1. Restart the computer. When the logo screen is displayed, press F1 to enter the UEFI BIOS menu.
+2. Select Security ➙ Password by using the arrow keys.
+3. Select the password type. Then, follow the on-screen instructions to set, change, or remove a 
+password.
+You should record all your passwords and store them in a safe place. If you forget any of your passwords, 
+any potential repair actions required are not covered under warranty.
+What to do if you forget your power-on password
+If you forget your power-on password, do the following to remove the power-on password: 
+• If you have set a supervisor password and remember it: 
+1. Restart the computer. When the logo screen is displayed, immediately press F1.
+2. Type the supervisor password to enter the UEFI BIOS menu.
+3. Select Security ➙ Password ➙ Power-On Password by using the arrow keys.
+4. Type the current supervisor password in the Enter Current Password field. Then, leave the Enter 
+New Password field blank, and press Enter twice.
+5. In the Changes have been saved window, press Enter.
+6. Press F10 to save changes and exit the UEFI BIOS menu.
+• If you have not set a supervisor password, contact a Lenovo authorized service provider to have the 
+power-on password removed.
+What to do if you forget your NVMe password
+If you forget your NVMe password (Single password) or both user and admin NVMe passwords (Dual 
+password), Lenovo cannot reset your passwords or recover data from the storage drive. You can contact a 
+Lenovo authorized service provider to have the storage drive replaced. A fee will be charged for parts and 
+service. If the storage drive is a CRU (Customer Replaceable Unit), you can also contact Lenovo to purchase 
+a new storage drive to replace the old one by yourself. To check whether the storage drive is a CRU and the 
+relevant replacement procedure, see “CRU list” on page 43 .
+What to do if you forget your supervisor password
+If you forget your supervisor password, there is no service procedure to remove the password. You have to 
+contact a Lenovo authorized service provider to have the system board replaced. A fee will be charged for 
+parts and service.
+What to do if you forget your system management password
+If you forget your system management password, do the following to remove the system management 
+password: 
+• If you have set a supervisor password and remember it: 
+1. Restart the computer. When the logo screen is displayed, immediately press F1.
+2. Type the supervisor password to enter the UEFI BIOS menu.
+3. Select Security ➙ Password ➙ System Management Password by using the arrow keys.
+4. Type the current supervisor password in the Enter Current Password field. Then, leave the Enter 
+New Password field blank, and press Enter twice.
+5. In the Changes have been saved window, press Enter.
+36 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 43 ---
+6. Press F10 to save changes and exit the UEFI BIOS menu.
+• If you have not set a supervisor password, contact a Lenovo authorized service provider to have the 
+system management password removed.
+Associate your fingerprints with passwords (for selected models)
+Do the following to associate your fingerprints with the power-on password and NVMe password: 
+1. Turn off and then turn on the computer.
+2. When prompted, scan your finger on the fingerprint reader.
+3. Enter your power-on password, NVMe password, or both as required. The association is established.
+When you start the computer again, you can use your fingerprints to log in to the computer without entering 
+your Windows password, power-on password, or NVMe password. To change settings, press F1 to enter the 
+UEFI BIOS menu, and then select Security ➙ Fingerprint.
+Attention: If you always use your fingerprint to log in to the computer, you might forget your passwords. 
+Write down your passwords, and keep them in a safe place.
+Chapter 4 . Secure your computer and information 37
+
+
+--- Page 44 ---
+38 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 45 ---
+Chapter 5. Configure advanced settings
+UEFI BIOS
+UEFI BIOS is the first program that the computer runs. When the computer turns on, UEFI BIOS performs a 
+self test to make sure that various devices in the computer are functioning.
+Enter the UEFI BIOS menu
+Restart the computer. When the logo screen is displayed, press F1 to enter the UEFI BIOS menu.
+Navigate in the UEFI BIOS interface
+You can navigate in the UEFI BIOS interface by pressing the following keys: 
+• F1: General Help
+• F9: Setup Defaults
+• F10: Save and Exit
+• F5: Change to a lower value
+• F6: Change to a higher value
+• ↑↓: Locate an item
+• Tab: Select a tab
+• Esc: Back / Close dialog
+• Enter: Select / Open submenu
+Set the system date and time
+1. Restart the computer. When the logo screen is displayed, press F1.
+2. Select Date/Time and set the system date and time as desired.
+3. Press F10 to save changes and exit.
+Change the startup sequence
+1. Restart the computer. When the logo screen is displayed, press F1.
+2. Select Startup ➙ Boot. Then, press Enter. The default device order list is displayed.
+Note: No bootable device is displayed if the computer cannot start from any devices or the operating 
+system cannot be found.
+3. Set the startup sequence as desired.
+4. Press F10 to save the changes and exit.
+To change the startup sequence temporarily: 
+1. Restart the computer. When the logo screen is displayed, press F12.
+2. Select the device that you want the computer to start from and press Enter.
+Update UEFI BIOS
+When you install a new program, device driver, or hardware component, you might need to update UEFI 
+BIOS.
+© Copyright Lenovo 2021, 2022 39
+
+
+--- Page 46 ---
+Download and install the latest UEFI BIOS update package by one of the following methods: 
+• Open the Vantage app to check the available update packages. If the latest UEFI BIOS update package is 
+available, follow the on-screen instructions to download and install the package.
+• Go to https://pcsupport.lenovo.com and select the entry for your computer. Then, follow the on-screen 
+instructions to download and install the latest UEFI BIOS update package.
+Note: During the UEFI BIOS update process, Memory Reference Code (MRC) change might cause memory 
+retraining. Memory retraining is a process to initialize the memory module and run diagnostic tests for the 
+memory module in your computer. When memory retraining occurs, the screen can’t display the progress 
+information and might be blank. You might see the LED indicators on ESC, F1, and F4 blinking sequentially 
+to indicate the progress. Do not press the power button to interrupt the process. Wait a few minutes until the 
+logo screen is displayed.
+To know more about UEFI BIOS, visit Knowledge Base of your computer at https://pcsupport.lenovo.com .
+Install a Windows operating system and drivers
+This section provides instructions on installing a Windows operating system and device drivers.
+Install a Windows operating system
+Microsoft constantly makes updates to the Windows operating system. Before installing a particular 
+Windows version, check the compatibility list for the Windows version. For details, go to https:// 
+support.lenovo.com/us/en/solutions/windows-support .
+Attention: 
+• It is recommended that you update your operating system through official channels. Any unofficial update 
+might cause security risks.
+• The process of installing a new operating system deletes all the data on your internal storage drive, 
+including the data stored in a hidden folder.
+1. If you are using the Windows BitLocker
+® 
+Drive Encryption feature and your computer has a Trusted 
+Platform Module, ensure that you have disabled the feature.
+2. Ensure that the security chip is set to Active. 
+a. Restart the computer. When the logo screen is displayed, press F1 to enter the UEFI BIOS menu.
+b. Select Security ➙ Security Chip and press Enter. The Security Chip submenu opens.
+c. Ensure that the security chip for TPM 2.0 is set to Active.
+d. Press F10 to save the settings and exit.
+3. Connect the drive that contains the operating system installation program to the computer.
+4. Restart the computer. When the logo screen is displayed, press F1 to enter the UEFI BIOS menu.
+5. Select Startup ➙ Boot to display the Boot Priority Order submenu.
+6. Select the drive that contains the operating system installation program, for example, USB HDD. Then, 
+press Esc.
+Attention: After you change the startup sequence, ensure that you select the correct device during a 
+copy, a save, or a format operation. If you select the wrong device, the data on that device might be 
+erased or overwritten.
+7. Select Restart and ensure that OS Optimized Defaults is enabled. Then, press F10 to save the settings 
+and exit.
+8. Follow the on-screen instructions to install the device drivers and necessary programs.
+40 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 47 ---
+9. After installing the device drivers, apply Windows Update to get the latest updates, for example the 
+security patches.
+Install device drivers
+You should download the latest driver for a component when you notice poor performance from that 
+component or when you added a component. This action might eliminate the driver as the potential cause of 
+a problem. Download and install the latest driver by one of the following methods: 
+• Open the Vantage app to check the available update packages. Select the update packages you want, 
+and then follow the on-screen instructions to download and install the packages.
+• Go to https://pcsupport.lenovo.com and select the entry for your computer. Then, follow the on-screen 
+instructions to download and install necessary drivers and software.
+Chapter 5 . Configure advanced settings 41
+
+
+--- Page 48 ---
+42 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 49 ---
+Chapter 6. CRU replacement
+Customer Replaceable Units (CRUs) are parts that can be upgraded or replaced by the customer. The 
+computers contain the following types of CRUs: 
+• Self-service CRUs: Refer to parts that can be installed or replaced easily by customer themselves or by 
+trained service technicians at an additional cost.
+• Optional-service CRUs: Refer to parts that can be installed or replaced by customers with a greater skill 
+level. Trained service technicians can also provide service to install or replace the parts under the type of 
+warranty designated for the customer’s machine.
+If you intend on installing a CRU, Lenovo will ship the CRU to you. CRU information and replacement 
+instructions are shipped with your product and are available from Lenovo at any time upon request. You 
+might be required to return the defective part that is replaced by the CRU. When return is required: (1) return 
+instructions, a prepaid shipping label, and a container will be included with the replacement CRU; and (2) you 
+might be charged for the replacement CRU if Lenovo does not receive the defective CRU within thirty (30) 
+days of your receipt of the replacement CRU. For full details, see the Lenovo Limited Warranty 
+documentation at https://www.lenovo.com/warranty/llw_02 .
+CRU list
+The following is a list of CRUs of your computer.
+Self-service CRUs
+• ac power adapter
+• Base cover assembly
+• M.2 solid-state drive
+• M.2 solid-state drive bracket*
+• Nano-SIM-card tray*
+• Power cord
+Optional-service CRUs
+• Always On USB 3.2 connector Gen 1 board
+• Always On USB 3.2 connector Gen 1 board bracket
+• Keyboard
+• Memory module*
+• Speaker assembly
+• Wireless WAN card*
+* for selected models
+Note: Replacement of any parts not listed above, including the built-in rechargeable battery, must be done 
+by a Lenovo-authorized repair facility or technician. Go to https://support.lenovo.com/partnerlocator for more 
+information.
+Disable Fast Startup and the built-in battery
+Before replacing any CRU, ensure that you disable Fast Startup first and then disable the built-in battery.
+© Copyright Lenovo 2021, 2022 43
+
+
+--- Page 50 ---
+To disable Fast Startup: 
+1. Go to Control Panel and view by Large icons or Small icons.
+2. Click Power Options, and then click Choose what the power buttons do on the left pane.
+3. Click Change settings that are currently unavailable at the top.
+4. If prompted by User Account Control (UAC), click Yes.
+5. Clear the Turn on fast startup check box, and then click Save changes.
+To disable the built-in battery: 
+1. Restart your computer. When the logo screen is displayed, immediately press F1 to enter the UEFI BIOS 
+menu.
+2. Select Config ➙ Power. The Power submenu is displayed.
+3. Select Disable Built-in Battery and press Enter.
+4. Select Yes in the Setup Confirmation window. The built-in battery is disabled and the computer turns off 
+automatically. Wait three to five minutes to let the computer cool.
+Replace a CRU
+Follow the replacement procedure to replace a CRU.
+Base cover assembly (T14 Gen 2 and P14s Gen 2)
+Prerequisite
+Before you start, read Generic Safety and Compliance Notices and print the following instructions.
+Note: Do not remove the base cover assembly when your computer is connected to ac power. Otherwise, 
+there might be a risk of short circuits.
+For access, do the following: 
+1. Disable the built-in battery. See “Disable Fast Startup and the built-in battery” on page 43 .
+2. Turn off the computer and disconnect the computer from ac power and all connected cables. Then, 
+close the computer display. 
+3. Remove the nano-SIM-card tray if your computer comes with one. See “Connect to a cellular network 
+(for selected models)” on page 9 .
+4. Turn over the computer.
+44 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 51 ---
+Removal procedure
+Installation procedure
+Chapter 6 . CRU replacement 45
+
+
+--- Page 52 ---
+Troubleshooting
+If the computer does not start up after you reinstall the base cover assembly, disconnect the ac power 
+adapter and then reconnect it to the computer.
+Base cover assembly (T15 Gen 2 and P15s Gen 2)
+Prerequisite
+Before you start, read Generic Safety and Compliance Notices and print the following instructions.
+Note: Do not remove the base cover assembly when your computer is connected to ac power. Otherwise, 
+there might be a risk of short circuits.
+For access, do the following: 
+1. Disable the built-in battery. See “Disable Fast Startup and the built-in battery” on page 43 .
+2. Turn off the computer and disconnect the computer from ac power and all connected cables. Then, 
+close the computer display.
+3. Remove the nano-SIM-card tray if your computer comes with one. See “Connect to a cellular network 
+(for selected models)” on page 9 .
+4. Turn over the computer.
+46 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 53 ---
+Removal procedure
+Installation procedure
+Chapter 6 . CRU replacement 47
+
+
+--- Page 54 ---
+Troubleshooting
+If the computer does not start up after you reinstall the base cover assembly, disconnect the ac power 
+adapter and then reconnect it to the computer.
+Memory module (for selected models)
+Prerequisite
+Before you start, read Generic Safety and Compliance Notices and print the following instructions.
+Attention: Do not touch the contact edge of the memory module. Otherwise, the memory module might get 
+damaged.
+For access, do the following: 
+1. Disable the built-in battery. See “Disable Fast Startup and the built-in battery” on page 43 .
+2. Turn off the computer and disconnect the computer from ac power and all connected cables. Then, 
+close the computer display.
+3. Remove the nano-SIM-card tray if your computer comes with one. See “Connect to a cellular network 
+(for selected models)” on page 9 .
+4. Remove the base cover assembly. See “Base cover assembly (T14 Gen 2 and P14s Gen 2)” on page 44
+or “Base cover assembly (T15 Gen 2 and P15s Gen 2)” on page 46 .
+48 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 55 ---
+Removal procedure
+Installation procedure
+M.2 solid-state drive
+Prerequisite
+Before you start, read Generic Safety and Compliance Notices and print the following instructions.
+Attention: If you replace a M.2 solid-state drive, you might need to install a new operating system. For 
+details on how to install a new operating system, see “Install a Windows operating system and drivers” on 
+page 40 .
+The M.2 solid-state drive is sensitive. Inappropriate handling might cause damage and permanent loss of 
+data.
+When handling the M.2 solid-state drive, observe the following guidelines: 
+• Replace the M.2 solid-state drive only for upgrade or repair. The M.2 solid-state drive is not designed for 
+frequent changes or replacement.
+• Before replacing the M.2 solid-state drive, make a backup copy of all the data that you want to keep.
+• Do not apply pressure to the M.2 solid-state drive.
+• Do not touch the contact edge or circuit board of the M.2 solid-state drive. Otherwise the M.2 solid-state 
+drive might get damaged.
+Chapter 6 . CRU replacement 49
+
+
+--- Page 56 ---
+• Do not make the M.2 solid-state drive subject to physical shocks or vibration. Put the M.2 solid-state drive 
+on a soft material, such as cloth, to absorb physical shocks.
+For access, do the following: 
+1. Disable the built-in battery. See “Disable Fast Startup and the built-in battery” on page 43 .
+2. Turn off the computer and disconnect the computer from ac power and all connected cables. Then, 
+close the computer display.
+3. Remove the nano-SIM-card tray if your computer comes with one. See “Connect to a cellular network 
+(for selected models)” on page 9 .
+4. Remove the base cover assembly. See “Base cover assembly (T14 Gen 2 and P14s Gen 2)” on page 44
+or “Base cover assembly (T15 Gen 2 and P15s Gen 2)” on page 46 .
+Removal procedure of the long M.2 solid-state drive
+Note: A Mylar film might cover the M.2 solid-state drive. To access the M.2 solid-state drive, open the film 
+first.
+Removal procedure of the short M.2 solid-state drive
+Note: A Mylar film might cover the M.2 solid-state drive. To access the M.2 solid-state drive, open the film 
+first.
+50 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 57 ---
+Wireless WAN card (for selected models)
+The following information is only for the computer with user-installable modules. Ensure that you use only a 
+Lenovo-authorized wireless module specifically tested for this computer model. Otherwise, the computer will 
+generate an error-code beep sequence when you turn on the computer.
+Prerequisite
+Before you start, read Generic Safety and Compliance Notices and print the following instructions.
+Attention: Do not touch the contact edge of the wireless WAN card. Otherwise the wireless WAN card might 
+get damaged.
+For access, do the following: 
+1. Disable the built-in battery. See “Disable Fast Startup and the built-in battery” on page 43 .
+2. Turn off the computer and disconnect the computer from ac power and all connected cables. Then, 
+close the computer display. 
+3. Remove the nano-SIM-card tray if your computer comes with one. See “Connect to a cellular network 
+(for selected models)” on page 9 .
+4. Remove the base cover assembly. See “Base cover assembly (T14 Gen 2 and P14s Gen 2)” on page 44
+or “Base cover assembly (T15 Gen 2 and P15s Gen 2)” on page 46 .
+Removal procedure of the wireless WAN card with two antenna cables
+Note: A Mylar film might cover the wireless WAN card. To access the wireless WAN card, open the film first.
+Note: After installation, ensure that you connect the orange cable to the connector labeled Orange on the 
+card, and the blue cable to the connector labeled Blue.
+Removal procedure of the wireless WAN card with four antenna cables (for selected Intel models)
+Note: A Mylar film might cover the wireless WAN card. To access the wireless WAN card, open the film first.
+Chapter 6 . CRU replacement 51
+
+
+--- Page 58 ---
+Note: After installation, ensure that you connect the orange cable to the connector labeled Orange on the 
+card, the blue cable to the connector labeled Blue, the white and grey cable to the M1 connector, and the 
+black and grey cable to the M2 connector.
+Speaker assembly
+Prerequisite
+Before you start, read Generic Safety and Compliance Notices and print the following instructions.
+For access, do the following: 
+1. Disable the built-in battery. See “Disable Fast Startup and the built-in battery” on page 43 .
+2. Turn off the computer and disconnect the computer from ac power and all connected cables. Then, 
+close the computer display.
+3. Remove the nano-SIM-card tray if your computer comes with one. See “Connect to a cellular network 
+(for selected models)” on page 9 .
+4. Remove the base cover assembly. See “Base cover assembly (T14 Gen 2 and P14s Gen 2)” on page 44
+or “Base cover assembly (T15 Gen 2 and P15s Gen 2)” on page 46 .
+Removal procedure
+52 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 59 ---
+Always On USB 3.2 connector Gen 1 board and bracket
+Prerequisite
+Before you start, read Generic Safety and Compliance Notices and print the following instructions.
+For access, do the following: 
+1. Disable the built-in battery. See “Disable Fast Startup and the built-in battery” on page 43 .
+2. Turn off the computer and disconnect the computer from ac power and all connected cables. Then, 
+close the computer display.
+3. Remove the nano-SIM-card tray if your computer comes with one. See “Connect to a cellular network 
+(for selected models)” on page 9 .
+4. Remove the base cover assembly. See “Base cover assembly (T14 Gen 2 and P14s Gen 2)” on page 44
+or “Base cover assembly (T15 Gen 2 and P15s Gen 2)” on page 46 .
+Removal procedure
+Chapter 6 . CRU replacement 53
+
+
+--- Page 60 ---
+Keyboard
+Prerequisite
+Before you start, read Generic Safety and Compliance Notices and print the following instructions.
+For access, do the following: 
+1. Disable the built-in battery. See “Disable Fast Startup and the built-in battery” on page 43 .
+2. Turn off the computer and disconnect the computer from ac power and all connected cables.
+Notes: 
+• You might be instructed to slide the keyboard frame forward or backward in some of the following steps. 
+In this case, ensure that you do not press or hold the keys while sliding the keyboard frame. Otherwise, 
+the keyboard frame cannot be moved.
+• Your keyboard might look different from the illustrations in this topic. 
+Removal procedure
+1. For T15 Gen 2 and P15s Gen 2, loosen the screw that secures the keyboard. 
+54 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 61 ---
+2. Take the tool out of the new keyboard packaging. Insert the tabs a and b into the slot between the 
+TrackPoint buttons and the trackpad 1 . Slightly pivot the tool downward 2 to release the left and right 
+TrackPoint buttons. Then, remove the two Trackpoint buttons 3 . 
+3. Loosen the screws that secure the keyboard. 
+Chapter 6 . CRU replacement 55
+
+
+--- Page 62 ---
+4. Insert the tabs c and d into the two dents near the two screw heads as shown. 
+5. Pivot the tool in the direction as shown to release the keyboard 1 . Push the keyboard in the direction as 
+shown by arrows 2 to release the latches from the keyboard bezel. 
+6. Pivot the keyboard slightly upward as shown by arrow 1 . Then, turn over the keyboard as shown by 
+arrow 2 . 
+56 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 63 ---
+7. Put the keyboard on the palm rest as shown and detach the connectors. Then, remove the keyboard. 
+Installation procedure
+1. Attach the connectors and turn over the keyboard as shown. 
+Chapter 6 . CRU replacement 57
+
+
+--- Page 64 ---
+2. Insert the keyboard into the keyboard bezel as shown. Ensure that the top edge of the keyboard (the 
+edge that is close to the display) is under the keyboard bezel. 
+3. Slide the keyboard in the direction as shown by the arrows. Ensure that the latches are secured under 
+the keyboard frame. 
+58 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 65 ---
+4. Tighten the screws to secure the keyboard. 
+5. Take the new TrackPoint buttons out of the new keyboard packaging. Install the TrackPoint buttons as 
+shown. 
+Chapter 6 . CRU replacement 59
+
+
+--- Page 66 ---
+6. For T15 Gen 2 and P15s Gen 2, tighten the screw that secures the keyboard.  
+7. Connect the ac power adapter and all disconnected cables to the computer.
+60 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 67 ---
+Chapter 7. Help and support
+Frequently asked questions
+Question Solution
+How do I access Control Panel?
+Type Cont rol P an el in the Windows search box and then press Enter.
+How do I turn off my computer?
+Open the Start menu and click 
+ Power. Then, click Shut down.
+How do I partition my storage 
+drive?
+https://support.lenovo.com/solutions/ht503851
+What do I do if my computer 
+stops responding.
+1. Press and hold the power button until the computer turns off. Then, restart 
+the computer.
+2. If step 1 does not work: 
+• For models with an emergency reset hole: Insert a straightened paper clip 
+into the emergency reset hole to cut off power supply temporarily. Then, 
+restart the computer with ac power connected.
+• For models without an emergency reset hole: 
+– For models with the removable battery, remove the removable battery 
+and disconnect all power sources. Then, reconnect to ac power and 
+restart the computer.
+– For models with the built-in battery, disconnect all power sources. 
+Press and hold the power button for about seven seconds. Then, 
+reconnect to ac power and restart the computer.
+What do I do if I spill liquid on the 
+computer?
+1. Carefully unplug the ac power adapter and turn off the computer immediately. 
+The more quickly you stop the current from passing through the computer the 
+more likely you will reduce damage from short circuits.  
+Attention: Although you might lose some data or work by turning off the 
+computer immediately, leaving the computer on might make your computer 
+unusable.
+2. Do not try to drain out the liquid by turning over the computer. If your 
+computer has keyboard drainage holes on the bottom, the liquid will be 
+drained out through the holes.
+3. Wait until you are certain that all the liquid is dry before turning on your 
+computer. 
+How do I enter the UEFI BIOS 
+menu?
+Restart the computer. When the logo screen is displayed, press F1 to enter the 
+UEFI BIOS menu.
+Where can I get the latest device 
+drivers and UEFI BIOS?
+• From the Vantage app. See “Install a Windows operating system and drivers” 
+on page 40 , and . “Update UEFI BIOS” on page 39
+• Download from Lenovo Support Web site at https://pcsupport.lenovo.com .
+© Copyright Lenovo 2021, 2022 61
+
+
+--- Page 68 ---
+Error messages
+If you see a message that is not included in the following table, record the error message first, then shut 
+down the computer and call Lenovo for help. See “Lenovo Customer Support Center” on page 67 .
+Message
+Solution
+0190: Critical low-battery error
+The computer turned off because the battery power is low. Connect the ac power 
+adapter to the computer and charge the batteries.
+0191: System Security - Invalid 
+remote change requested
+The system configuration change has failed. Confirm the operation and try again. 
+0199: System Security - Security 
+password retry count exceeded.
+This message is displayed when you enter a wrong supervisor password more 
+than three times. Confirm the supervisor password and try again. 
+0271: Check Date and Time 
+settings.
+The date or the time is not set in the computer. Enter the UEFI BIOS menu and set 
+the date and time.
+210x/211x: Detection/Read error 
+on HDDx/SSDx
+The storage drive is not working. Reinstall the storage drive. If the problem still 
+exists, replace the storage drive.
+Error: The non-volatile system 
+UEFI variable storage is nearly 
+full.
+Note: 
+This error indicates that the operating system or programs cannot create, modify, 
+or delete data in the non-volatile system UEFI variable storage due to insufficient 
+storage space after POST. 
+The non-volatile system UEFI variable storage is used by the UEFI BIOS and by 
+the operating system or programs. This error occurs when the operating system 
+or programs store large amounts of data in the variable storage. All data needed 
+for POST, such as UEFI BIOS setup settings, chipset, or platform configuration 
+data, are stored in a separate UEFI variable storage.
+Press F1 after the error message is displayed to enter the UEFI BIOS menu. A 
+dialog asks for confirmation to clean up the storage. If you select “Yes”, all data 
+that were created by the operating system or programs will be deleted except 
+global variables defined by the Unified Extensible Firmware Interface 
+Specification. If you select “No”, all data will be kept, but the operating system or 
+programs will not be able to create, modify, or delete data in the storage.
+If this error happens at a service center, Lenovo authorized service personnel will 
+clean up the non-volatile system UEFI variable storage using the preceding 
+solution. 
+Fan error. Press ESC to startup 
+with limited performance.
+The thermal fan might not work correctly. After the error message is displayed, 
+press ESC within five seconds to start up the computer with limited performance. 
+Otherwise, the computer will shut down immediately. If the problem still exists 
+when you starts up next time, have your computer serviced. 
+62 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 69 ---
+Beep errors
+Lenovo SmartBeep technology enables you to decode beep errors with your smartphone when a black 
+screen occurs with beeps from your computer. To decode the beep error with Lenovo SmartBeep 
+technology: 
+1. Go to https://support.lenovo.com/smartbeep or scan the following QR Code. 
+2. Download the proper diagnostic app and install it on your smartphone.
+3. Run the diagnostic app and place the smartphone near the computer. 
+4. Press Fn on your computer to emit the beep again. The diagnostic app decodes the beep error and 
+shows possible solutions on the smartphone. 
+Note: Do not attempt to service a product yourself unless instructed to do so by the Customer Support 
+Center or product documentation. Only use a Lenovo-authorized service provider to repair your product. 
+Chapter 7 . Help and support 63
+
+
+--- Page 70 ---
+Self-help resources
+Use the following self-help resources to learn more about the computer and troubleshoot problems.
+Resources How to access?
+Troubleshooting and FAQ
+• https://www.lenovo.com/tips
+• https://forums.lenovo.com
+Accessibility information https://www.lenovo.com/accessibility
+Reset or restore Windows
+• Use Lenovo recovery options. 
+1. Go to https://support.lenovo.com/ 
+HowToCreateLenovoRecovery .
+2. Follow the on-screen instructions.
+• Use Windows recovery options. 
+1. Go to https://pcsupport.lenovo.com .
+2. Detect your computer or manually select your 
+computer model.
+3. Navigate to the troubleshooting menu to diagnose 
+the operating system for recovery instructions.
+Use the Vantage app to: 
+• Configure device settings.
+• Download and install UEFI BIOS, drivers, and firmware 
+updates.
+• Secure your computer from outside threats.
+• Diagnose hardware problems.
+• Check the computer warranty status.
+• Access User Guide and helpful articles.
+Note: The available features vary depending on the 
+computer model.
+Type Vant age in the Windows search box and then press 
+Enter.
+Product documentation: 
+• Safety and Warranty Guide
+• Generic Safety and Compliance Notices
+• Setup Guide
+• This User Guide
+• Regulatory Notice
+Go to https://pcsupport.lenovo.com . Then, follow the on- 
+screen instructions to filter out the documentation you 
+want.
+64 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 71 ---
+Resources How to access?
+Lenovo Support Web site with the latest support 
+information of the following: 
+• Drivers and software
+• Diagnostic solutions
+• Product and service warranty
+• Product and parts details
+• Knowledge base and frequently asked questions
+https://pcsupport.lenovo.com
+Windows help information
+• Open the Start menu and click Get Help or Tips.
+• Use Windows Search or the Cortana
+® 
+personal 
+assistant.
+• Microsoft support Web site: https:// 
+support.microsoft.com
+Windows label
+Your computer might have a Windows Genuine Microsoft label affixed to its cover depending on the 
+following factors: 
+• Your geographic location
+• Edition of Windows that is preinstalled
+Go to https://www.microsoft.com/en-us/howtotell/Hardware.aspx for illustrations of the various types of 
+Genuine Microsoft labels. 
+• In the People’s Republic of China, the Genuine Microsoft label is required on all computer models 
+preinstalled with any edition of the Windows operating system.
+• In other countries and regions, the Genuine Microsoft label is required only on computer models licensed 
+for Windows Pro editions.
+The absence of a Genuine Microsoft label does not indicate that the preinstalled Windows version is not 
+genuine. For details on how to tell whether your preinstalled Windows product is genuine, refer to the 
+information provided by Microsoft at https://www.microsoft.com/en-us/howtotell/default.aspx .
+There are no external, visual indicators of the Product ID or Windows version for which the computer is 
+licensed. Instead, the Product ID is recorded in the computer firmware. Whenever a Windows product is 
+installed, the installation program checks the computer firmware for a valid, matching Product ID to complete 
+the activation.
+In some cases, an earlier Windows version might be preinstalled under the terms of the Windows Pro edition 
+license downgrade rights.
+Call Lenovo
+If you have tried to correct the problem yourself and still need help, you can call Lenovo Customer Support 
+Center.
+Before you contact Lenovo
+Prepare the following before you contact Lenovo: 
+1. Record the problem symptoms and details: 
+Chapter 7 . Help and support 65
+
+
+--- Page 72 ---
+• What is the problem? Is it continuous or intermittent?
+• Any error message or error code?
+• What operating system are you using? Which version?
+• Which software applications were running at the time of the problem?
+• Can the problem be reproduced? If so, how?
+2. Record the system information: 
+• Product name
+• Machine type and serial number
+The following illustration shows where to find the machine type and serial number of your computer. 
+– T14 Gen 2 and P14s Gen 2 
+– T15 Gen 2 and P15s Gen 2 
+66 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 73 ---
+Lenovo Customer Support Center
+During the warranty period, you can call Lenovo Customer Support Center for help. 
+Telephone numbers
+For a list of the Lenovo Support phone numbers for your country or region, go to https:// 
+pcsupport.lenovo.com/supportphonelist for the latest phone numbers.
+Note: Phone numbers are subject to change without notice. If the number for your country or region is not 
+provided, contact your Lenovo reseller or Lenovo marketing representative.
+Services available during the warranty period
+• Problem determination - Trained personnel are available to assist you with determining if you have a 
+hardware problem and deciding what action is necessary to fix the problem.
+• Lenovo hardware repair - If the problem is determined to be caused by Lenovo hardware under warranty, 
+trained service personnel are available to provide the applicable level of service.
+• Engineering change management - Occasionally, there might be changes that are required after a product 
+has been sold. Lenovo or your reseller, if authorized by Lenovo, will make selected Engineering Changes 
+(ECs) that apply to your hardware available.
+Services not covered
+• Replacement or use of parts not manufactured for or by Lenovo or nonwarranted parts
+• Identification of software problem sources
+• Configuration of UEFI BIOS as part of an installation or upgrade
+• Changes, modifications, or upgrades to device drivers
+• Installation and maintenance of network operating systems (NOS)
+• Installation and maintenance of programs
+For the terms and conditions of the Lenovo Limited Warranty that apply to your Lenovo hardware product, 
+go to:
+• https://www.lenovo.com/warranty/llw_02
+• https://pcsupport.lenovo.com/warrantylookup
+Purchase additional services
+During and after the warranty period, you can purchase additional services from Lenovo at https:// 
+pcsupport.lenovo.com/warrantyupgrade .
+Service availability and service name might vary by country or region.
+Chapter 7 . Help and support 67
+
+
+--- Page 74 ---
+68 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 75 ---
+Appendix A. Compliance information
+For compliance information, refer to Regulatory Notice at https://pcsupport.lenovo.com and Generic Safety 
+and Compliance Notices at https://pcsupport.lenovo.com/docs/generic_notices .
+Certification-related information
+Product name Compliance ID Machine types
+• ThinkPad T14 Gen 2
+• ThinkPad T14 Gen 2 LTE1
+2
+• ThinkPad T14 Gen 2 LTE2
+2
+• ThinkPad T14 Gen 2 AMD
+2
+• ThinkPad T14 Gen 2 LTE 
+AMD
+2
+• ThinkPad P14s Gen 2
+• ThinkPad P14s Gen 2 LTE2
+2
+• ThinkPad P14s Gen 2 AMD
+2
+• Intel models:
+– TP00103J
+– TP00103J0
+3
+– TP00103J1
+3
+– TP00103J2
+3
+– TP00103J3
+3
+– TP00103J4
+3
+– TP00103J5
+3
+– TP00103J6
+3
+• AMD models:
+– TP00103K
+– TP00103K0
+3
+– TP00103K1
+3
+– TP00103K2
+3
+– TP00103L
+– TP00103L0
+3
+– TP00103L1
+3
+– TP00103L2
+3
+• Intel models:
+– ThinkPad T14 Gen 2: 20W0 and 20W1
+– ThinkPad P14s Gen 2: 20VX and 20VY
+• AMD models:
+– ThinkPad T14 Gen 2: 20XK and 20XL
+– ThinkPad P14s Gen 2: 21A0 and 21A1
+• ThinkPad T15 Gen 2
+• ThinkPad T15 Gen 2 LTE1
+2
+• ThinkPad P15s Gen 2
+• TP00104E
+• TP00104E0
+3
+• TP00104E1
+3
+• TP00104E2
+3
+• TP00104E3
+3
+• TP00104E4
+3
+• ThinkPad T15 Gen 2: 20W4 and 20W5
+• ThinkPad P15s Gen 2: 20W6 and 20W7
+2 
+for mainland China only
+3 
+for India only
+Locate the UltraConnect wireless antennas
+Your computer has an UltraConnect™ wireless antenna system. You can enable wireless communication 
+wherever you are.
+© Copyright Lenovo 2021, 2022 69
+
+
+--- Page 76 ---
+The following illustration shows the antenna locations on your computer: 
+1. Wireless-LAN antenna (main)
+2. Wireless-WAN antenna (main, for selected models)
+3. Wireless-WAN antenna (auxiliary, for selected models)
+4. Wireless-LAN antenna (auxiliary)
+5. 4x4 MIMO Wireless-WAN antenna (auxiliary, for selected Intel models)
+6. 4x4 MIMO Wireless-WAN antenna (main, for selected Intel models)
+Operating environment
+Maximum altitude (without pressurization)
+3048 m (10 000 ft)
+Temperature
+• Operating: 5°C to 35°C (41°F to 95°F)
+• Storage and transportation in original shipping packaging: -20°C to 60°C (-4°F to 140°F)
+• Storage without packaging: 5°C to 43°C (41°F to 109°F)
+Note: When you charge the battery, its temperature must be no lower than 10°C (50°F).
+70 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 77 ---
+Relative humidity
+• Operating: 8% to 95% at wet-bulb temperature 23°C (73°F)
+• Storage and transportation: 5% to 95% at wet-bulb temperature 27°C (81°F)
+Appendix A. Compliance information 71
+
+
+--- Page 78 ---
+72 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
+
+
+--- Page 79 ---
+Appendix B. Notices and trademarks
+Notices
+Lenovo may not offer the products, services, or features discussed in this document in all countries. Consult 
+your local Lenovo representative for information on the products and services currently available in your 
+area. Any reference to a Lenovo product, program, or service is not intended to state or imply that only that 
+Lenovo product, program, or service may be used. Any functionally equivalent product, program, or service 
+that does not infringe any Lenovo intellectual property right may be used instead. However, it is the user's 
+responsibility to evaluate and verify the operation of any other product, program, or service.
+Lenovo may have patents or pending patent programs covering subject matter described in this document. 
+The furnishing of this document does not give you any license to these patents. You can send license 
+inquiries, in writing, to:  
+Lenovo (United States), Inc. 
+8001 Development Drive
+Morrisville, NC 27560
+U.S.A.
+Attention: Lenovo Director of Licensing
+LENOVO PROVIDES THIS PUBLICATION "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS 
+OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, 
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Some jurisdictions do not allow 
+disclaimer of express or implied warranties in certain transactions, therefore, this statement may not apply to 
+you.
+Changes are made periodically to the information herein; these changes will be incorporated in new editions 
+of the publication. To provide better service, Lenovo reserves the right to improve and/or modify the 
+products and software programs described in the manuals included with your computer, and the content of 
+the manual, at any time without additional notice.
+The software interface and function and hardware configuration described in the manuals included with your 
+computer might not match exactly the actual configuration of the computer that you purchase. For the 
+configuration of the product, refer to the related contract (if any) or product packing list, or consult the 
+distributor for the product sales. Lenovo may use or distribute any of the information you supply in any way it 
+believes appropriate without incurring any obligation to you.
+The products described in this document are not intended for use in implantation or other life support 
+applications where malfunction may result in injury or death to persons. The information contained in this 
+document does not affect or change Lenovo product specifications or warranties. Nothing in this document 
+shall operate as an express or implied license or indemnity under the intellectual property rights of Lenovo or 
+third parties. All information contained in this document was obtained in specific environments and is 
+presented as an illustration. The result obtained in other operating environments may vary.
+Lenovo may use or distribute any of the information you supply in any way it believes appropriate without 
+incurring any obligation to you.
+Any references in this publication to non-Lenovo Web sites are provided for convenience only and do not in 
+any manner serve as an endorsement of those Web sites. The materials at those Web sites are not part of the 
+materials for this Lenovo product, and use of those Web sites is at your own risk.
+© Copyright Lenovo 2021, 2022 73
+
+
+--- Page 80 ---
+Any performance data contained herein was determined in a controlled environment. Therefore, the result 
+obtained in other operating environments may vary significantly. Some measurements may have been made 
+on development-level systems and there is no guarantee that these measurements will be the same on 
+generally available systems. Furthermore, some measurements may have been estimated through 
+extrapolation. Actual results may vary. Users of this document should verify the applicable data for their 
+specific environment.
+This document is copyrighted by Lenovo and is not covered by any open source license, including any 
+Linux
+® 
+agreement(s) which may accompany software included with this product. Lenovo may update this 
+document at any time without notice.
+For the latest information or any questions or comments, contact or visit the Lenovo Web site:
+https://pcsupport.lenovo.com
+Trademarks
+LENOVO, LENOVO logo, THINKPAD, THINKPAD logo, TRACKPOINT, and ULTRACONNECT are trademarks 
+of Lenovo. Intel and Thunderbolt are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or 
+other countries. Linux is the registered trademark of Linus Torvalds in the U.S. and other countries. 
+Microsoft, Microsoft Teams, Windows, BitLocker, and Cortana are trademarks of the Microsoft group of 
+companies. DisplayPort is a trademark of the Video Electronics Standards Association. NVIDIA is a 
+registered trademark of NVIDIA Corporation. The terms HDMI and HDMI High-Definition Multimedia Interface 
+are trademarks or registered trademarks of HDMI Licensing LLC in the United States and other countries. 
+USB-C is a registered trademark of USB Implementers Forum. Wi-Fi and Miracast are registered trademarks 
+of Wi-Fi Alliance. All other trademarks are the property of their respective owners.
+74 T14 Gen 2, T15 Gen 2, P14s Gen 2, and P15s Gen 2 User Guide
