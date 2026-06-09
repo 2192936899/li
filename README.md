@@ -86,3 +86,6 @@ DEEPSEEK_API_KEY = "your_deepseek_api_key"
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 DEEPSEEK_MODEL = "deepseek-v4-flash"
 ```
+
+You can also enter the DeepSeek API settings directly in the app sidebar.
+The sidebar API key is session-only and is not saved to the repository.

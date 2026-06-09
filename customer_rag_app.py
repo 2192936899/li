@@ -79,6 +79,9 @@ def init_state() -> None:
         "low_confidence_turns": 0,
         "last_error": "",
         "page": "上传手册",
+        "api_key_input": "",
+        "api_base_url_input": "",
+        "api_model_input": "",
     }
     for key, value in defaults.items():
         if key not in st.session_state:
@@ -220,16 +223,27 @@ def deepseek_config() -> dict[str, str]:
         except Exception:
             return default
 
+    api_key = read_secret("DEEPSEEK_API_KEY", os.environ.get("DEEPSEEK_API_KEY", ""))
+    base_url = read_secret(
+        "DEEPSEEK_BASE_URL",
+        os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com"),
+    )
+    model = read_secret(
+        "DEEPSEEK_MODEL",
+        os.environ.get("DEEPSEEK_MODEL", "deepseek-chat"),
+    )
+
+    if st.session_state.get("api_key_input"):
+        api_key = st.session_state.api_key_input.strip()
+    if st.session_state.get("api_base_url_input"):
+        base_url = st.session_state.api_base_url_input.strip()
+    if st.session_state.get("api_model_input"):
+        model = st.session_state.api_model_input.strip()
+
     return {
-        "api_key": read_secret("DEEPSEEK_API_KEY", os.environ.get("DEEPSEEK_API_KEY", "")),
-        "base_url": read_secret(
-            "DEEPSEEK_BASE_URL",
-            os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com"),
-        ),
-        "model": read_secret(
-            "DEEPSEEK_MODEL",
-            os.environ.get("DEEPSEEK_MODEL", "deepseek-chat"),
-        ),
+        "api_key": api_key,
+        "base_url": base_url,
+        "model": model,
     }
 
 
@@ -511,6 +525,39 @@ def render_chat_page() -> None:
         st.rerun()
 
 
+def render_api_settings() -> None:
+    config = deepseek_config()
+    st.subheader("DeepSeek API Settings")
+    st.text_input(
+        "API Key",
+        key="api_key_input",
+        type="password",
+        placeholder="sk-...",
+        help="Session only. It is not written to the repo or saved on disk.",
+    )
+    st.text_input(
+        "Base URL",
+        key="api_base_url_input",
+        placeholder=config["base_url"],
+        help="Default: https://api.deepseek.com",
+    )
+    st.text_input(
+        "Model",
+        key="api_model_input",
+        placeholder=config["model"],
+        help="Example: deepseek-v4-flash",
+    )
+
+    active_config = deepseek_config()
+    if active_config["api_key"]:
+        st.success("DeepSeek API configured")
+    else:
+        st.warning("DeepSeek API key missing")
+    st.caption(f"Active model: {active_config['model']}")
+    st.caption(f"Active base URL: {active_config['base_url']}")
+    st.divider()
+
+
 def main() -> None:
     load_env()
     st.set_page_config(page_title="企业客服 RAG Agent Demo", page_icon="AI", layout="wide")
@@ -519,6 +566,7 @@ def main() -> None:
     st.title("企业客服 RAG Agent Demo")
 
     with st.sidebar:
+        render_api_settings()
         st.subheader("导航")
         st.session_state.page = st.radio(
             "选择页面",
