@@ -1,0 +1,11 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Large local test manuals. Keep these locally; upload them through the app UI.
+manuals/*.pdf
+streamlit_deploy_package.zip
