@@ -1,0 +1,1 @@
+"""Meeting Agent MVP package."""
